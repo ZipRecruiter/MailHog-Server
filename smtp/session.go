@@ -7,8 +7,8 @@ import (
 	"log"
 	"strings"
 
+	"github.com/ZipRecruiter/MailHog-Server/monkey"
 	"github.com/ian-kent/linkio"
-	"github.com/mailhog/MailHog-Server/monkey"
 	"github.com/mailhog/data"
 	"github.com/mailhog/smtp"
 	"github.com/mailhog/storage"
